@@ -4,7 +4,7 @@
 ## 2. 테스트
 ### 테스트는 기본적으로 모든 장마다 같이 진행하였기 때문에 코드는 생략.
 
-## 3. 템플릿
+## [3. 템플릿](https://github.com/kujaHn/Tobispring/tree/master/3ch)
 
 
 
